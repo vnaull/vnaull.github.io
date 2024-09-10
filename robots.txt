@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vnaull.github.io/bLf/sitemap.bLf.gz
